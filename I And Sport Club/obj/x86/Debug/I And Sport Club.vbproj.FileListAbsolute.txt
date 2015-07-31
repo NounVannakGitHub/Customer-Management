@@ -1,0 +1,77 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\bin\Debug\I And Sport Club.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\bin\Debug\I And Sport Club.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\bin\Debug\I And Sport Club.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmRegisterMember.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.xml
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\I And Sport Club.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\I And Sport Club.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\I And Sport Club.xml
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmRegisterMember.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmMemberAction.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmCouponMember.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmMenu.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmAbout.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmInvoice.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\I And Sport Club.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmReport.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.ResolveComReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\I And Sport Club\obj\x86\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\I And Sport Club.exe.config
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I And Sport Club.exe
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I And Sport Club.xml
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I And Sport Club.pdb
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\I And Sport Club.exe
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\I And Sport Club.pdb
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\I And Sport Club.xml
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\ASUS\Desktop\I And Sport Club\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I And Sport Club.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmAbout.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmCouponMember.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmInvoice.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmMemberAction.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmMenu.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmRegisterMember.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmReport.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.Resources.resources
+C:\Users\ASUS\Desktop\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.GenerateResource.Cache
+D:\My Project\I And Sport Club\bin\Debug\I And Sport Club.exe.config
+D:\My Project\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.ResolveComReference.cache
+D:\My Project\I And Sport Club\obj\x86\Debug\I And Sport Club.exe
+D:\My Project\I And Sport Club\obj\x86\Debug\I And Sport Club.xml
+D:\My Project\I And Sport Club\obj\x86\Debug\I And Sport Club.pdb
+D:\My Project\I And Sport Club\obj\x86\Debug\I And Sport Club.vbprojResolveAssemblyReference.cache
+D:\My Project\I And Sport Club\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib11_5.dll
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmAbout.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmCouponMember.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmInvoice.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmMemberAction.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmMenu.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmRegisterMember.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.frmReport.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I_And_Sport_Club.Resources.resources
+D:\My Project\I And Sport Club\obj\x86\Debug\I And Sport Club.vbproj.GenerateResource.Cache

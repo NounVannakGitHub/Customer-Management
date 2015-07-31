@@ -1,0 +1,1 @@
+Provider=SQLOLEDB; Data Source=NOUNVANNAK-PC\VBASE;Initial Catalog=Customer;User ID=sa;Password=223238

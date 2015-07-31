@@ -1,0 +1,24 @@
+D:\My Project\I And Sport Club\obj\x86\Release\Interop.CrystalActiveXReportViewerLib11_5.dll
+D:\My Project\I And Sport Club\obj\x86\Release\I And Sport Club.vbproj.ResolveComReference.cache
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmAbout.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmCouponMember.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmInvoice.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmMemberAction.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmMenu.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmRegisterMember.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.frmReport.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I_And_Sport_Club.Resources.resources
+D:\My Project\I And Sport Club\obj\x86\Release\I And Sport Club.vbproj.GenerateResource.Cache
+D:\My Project\I And Sport Club\bin\Release\I And Sport Club.exe.config
+D:\My Project\I And Sport Club\obj\x86\Release\Interop.CrystalActiveXReportViewerLib13.dll
+D:\My Project\I And Sport Club\obj\x86\Release\Interop.CrystalPrintControlLib.dll
+D:\My Project\I And Sport Club\obj\x86\Release\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\My Project\I And Sport Club\obj\x86\Release\AxInterop.CrystalPrintControlLib.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\bin\Release\I And Sport Club.exe.config
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\Interop.CRDESIGNERLib.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\Interop.CrystalActiveXReportViewerLib11_5.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\Interop.CrystalActiveXReportViewerLib13.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\Interop.CrystalPrintControlLib.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\AxInterop.CrystalPrintControlLib.dll
+D:\My Project\GitHub\Customer-Management\I And Sport Club\obj\x86\Release\I And Sport Club.vbproj.ResolveComReference.cache
